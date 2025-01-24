@@ -8,7 +8,7 @@
 
 <div align="left">
 
-- 🌱 **About Me**: I'm a 3rd -year CES-AIML undergraduate student at GVPCE(A), passionate about software development, AI/ML, and creating impactful real-time applications.   
+- 🌱 **About Me**: I'm a 3rd -year CSE-AIML undergraduate student at GVPCE(A), passionate about software development, AI/ML, and creating impactful real-time applications.   
 - 😄 **Fun Fact**: I turn coffee and code into innovation and creativity!  
 - 🌟 **Hobbies**: I love content writing, poetry, public speaking, cooking the code, and participating in hackathons.
 
